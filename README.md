@@ -9,7 +9,7 @@ Chaque write-up documente une vulnérabilité : son fonctionnement, son exploita
 
 | Sujet | Description |
 |---|---|
-| [Scanners de sécurité pilotés par IA](./scanners-ia-securite.md) | Nouvelle surface d'attaque des scanners basés sur des LLM : injection de prompt indirecte, exfiltration de données, SSRF, agentivité excessive — et les principes de défense (moindre privilège, cloisonnement). |
+| [Scanners de sécurité pilotés par IA](./scanner-ia-securite.md) | Nouvelle surface d'attaque des scanners basés sur des LLM : injection de prompt indirecte, exfiltration de données, SSRF, agentivité excessive — et les principes de défense (moindre privilège, cloisonnement). |
 
 *(D'autres write-ups à venir.)*
 
